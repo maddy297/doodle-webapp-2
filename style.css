@@ -1,0 +1,19 @@
+body
+{
+ background-color:plum
+}
+#score
+{
+margin:20 px;
+font-size:20 px;
+}
+#time
+{
+ margin:20px;
+   float:right;
+   font-size:20px;
+}
+#sketch_name
+{
+    font-color:rgb(255, 140, 157);
+}
